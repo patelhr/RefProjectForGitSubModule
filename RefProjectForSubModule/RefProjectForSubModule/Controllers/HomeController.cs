@@ -36,7 +36,7 @@ namespace RefProjectForSubModule.Controllers
 
         public static string TestMethodOfChildProject()
         {
-            return "ChildProject with new comment";
+            return "ChildProject with new commenttts";
         }
     }
 }
