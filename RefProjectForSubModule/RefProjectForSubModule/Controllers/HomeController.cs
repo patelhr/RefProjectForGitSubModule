@@ -33,5 +33,10 @@ namespace RefProjectForSubModule.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public static string TestMethodOfChildProject()
+        {
+            return "ChildProject";
+        }
     }
 }
