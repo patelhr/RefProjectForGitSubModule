@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RefProjectForSubModule/.vs/RefProjectForSubModule/v16/Server/sqlite3
