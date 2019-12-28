@@ -22,5 +22,8 @@ namespace RefProjectForSubModule
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+				
+	    public string Hello(){
+			return "hello";
     }
 }
